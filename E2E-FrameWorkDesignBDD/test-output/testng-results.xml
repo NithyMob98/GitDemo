@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-03T18:37:11 IST" name="Suite" finished-at="2022-02-03T18:37:55 IST" duration-ms="44562">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@1a1d3c1a]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-02-03T18:37:11 IST" name="navbar validate" finished-at="2022-02-03T18:37:19 IST" duration-ms="8636">
+      <class name="Freelance.ValidateNavBar">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:Freelance.ValidateNavBar@28fa700e]" started-at="2022-02-03T18:37:11 IST" name="Initialize" finished-at="2022-02-03T18:37:19 IST" duration-ms="8262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="CheckTextnb()[pri:0, instance:Freelance.ValidateNavBar@28fa700e]" started-at="2022-02-03T18:37:19 IST" name="CheckTextnb" finished-at="2022-02-03T18:37:19 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTextnb -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Freelance.ValidateNavBar@28fa700e]" started-at="2022-02-03T18:37:19 IST" name="teardown" finished-at="2022-02-03T18:37:19 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Freelance.ValidateNavBar -->
+    </test> <!-- navbar validate -->
+    <test started-at="2022-02-03T18:37:11 IST" name="title validate" finished-at="2022-02-03T18:37:20 IST" duration-ms="9155">
+      <class name="Freelance.ValidateTextDisplayed">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:Freelance.ValidateTextDisplayed@3a71c100]" started-at="2022-02-03T18:37:11 IST" name="Initialize" finished-at="2022-02-03T18:37:19 IST" duration-ms="7860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="ValidateHeader()[pri:0, instance:Freelance.ValidateTextDisplayed@3a71c100]" started-at="2022-02-03T18:37:19 IST" name="ValidateHeader" finished-at="2022-02-03T18:37:19 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHeader -->
+        <test-method signature="ValidateHeader2()[pri:0, instance:Freelance.ValidateTextDisplayed@3a71c100]" started-at="2022-02-03T18:37:19 IST" name="ValidateHeader2" finished-at="2022-02-03T18:37:19 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHeader2 -->
+        <test-method signature="ValidateTitleText()[pri:0, instance:Freelance.ValidateTextDisplayed@3a71c100]" started-at="2022-02-03T18:37:19 IST" name="ValidateTitleText" finished-at="2022-02-03T18:37:19 IST" duration-ms="102" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [FEATUREDe COURSES] but found [FEATURED COURSES]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [FEATUREDe COURSES] but found [FEATURED COURSES]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at Freelance.ValidateTextDisplayed.ValidateTitleText(ValidateTextDisplayed.java:27)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+at java.base/java.lang.Thread.run(Thread.java:831)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTitleText -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Freelance.ValidateTextDisplayed@3a71c100]" started-at="2022-02-03T18:37:20 IST" name="teardown" finished-at="2022-02-03T18:37:20 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Freelance.ValidateTextDisplayed -->
+    </test> <!-- title validate -->
+    <test started-at="2022-02-03T18:37:11 IST" name="Logging test" finished-at="2022-02-03T18:37:25 IST" duration-ms="14425">
+      <class name="Freelance.HomePageTest">
+        <test-method is-config="true" signature="Initialize()[pri:0, instance:Freelance.HomePageTest@51b01960]" started-at="2022-02-03T18:37:11 IST" name="Initialize" finished-at="2022-02-03T18:37:14 IST" duration-ms="3488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method signature="basePageNavigate(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Freelance.HomePageTest@51b01960]" started-at="2022-02-03T18:37:14 IST" name="basePageNavigate" data-provider="getData" finished-at="2022-02-03T18:37:22 IST" duration-ms="7664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1@rs.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testcase 1 Executed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigate -->
+        <test-method signature="basePageNavigate(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Freelance.HomePageTest@51b01960]" started-at="2022-02-03T18:37:22 IST" name="basePageNavigate" data-provider="getData" finished-at="2022-02-03T18:37:25 IST" duration-ms="3103" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2@rs.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testcase 2 Executed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Freelance.HomePageTest@51b01960]" started-at="2022-02-03T18:37:25 IST" name="teardown" finished-at="2022-02-03T18:37:25 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Freelance.HomePageTest -->
+    </test> <!-- Logging test -->
+    <test started-at="2022-02-03T18:37:20 IST" name="Cucumber check validate" finished-at="2022-02-03T18:37:55 IST" duration-ms="34941">
+      <class name="cucumberOptions.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:cucumberOptions.TestRunner@1a1d3c1a]" started-at="2022-02-03T18:37:20 IST" name="setUpClass" finished-at="2022-02-03T18:37:21 IST" duration-ms="535" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@420745d7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@1a1d3c1a]" started-at="2022-02-03T18:37:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-02-03T18:37:38 IST" duration-ms="17394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Posititve Login validations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login ino Application Login]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cucumberOptions.TestRunner@1a1d3c1a]" started-at="2022-02-03T18:37:38 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-02-03T18:37:55 IST" duration-ms="16978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Posititve Login validations"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login ino Application Login]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:cucumberOptions.TestRunner@1a1d3c1a]" started-at="2022-02-03T18:37:55 IST" name="tearDownClass" finished-at="2022-02-03T18:37:55 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.TestRunner -->
+    </test> <!-- Cucumber check validate -->
+  </suite> <!-- Suite -->
+</testng-results>

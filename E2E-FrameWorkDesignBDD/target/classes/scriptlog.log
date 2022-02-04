@@ -1,0 +1,142 @@
+17:14:10.651 [TestNG-tests-1] INFO  resources.Base - Properties Loaded
+17:14:10.651 [TestNG-tests-3] INFO  resources.Base - Properties Loaded
+17:14:10.651 [TestNG-tests-2] INFO  resources.Base - Properties Loaded
+17:14:14.266 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Driver is initialized
+17:14:14.266 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Driver initialized
+17:14:14.266 [TestNG-tests-1] INFO  Freelance.HomePageTest - Driver initialized
+17:14:14.365 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+17:14:18.429 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Webpage Loaded
+17:14:18.432 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - TEST	 : ValidateNavBar
+17:14:18.602 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Navigated to webpage
+17:14:18.609 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader
+17:14:18.630 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+17:14:18.692 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - NavBar is validated
+17:14:18.695 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header is validated
+17:14:18.713 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader2
+17:14:18.954 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header2 is validated
+17:14:18.964 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateTitle
+17:14:19.677 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+17:14:19.824 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+17:14:21.015 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 1 Executed
+17:14:21.017 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+17:14:22.390 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+17:14:22.893 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+17:14:22.978 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+17:14:23.696 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 2 Executed
+17:28:19.142 [TestNG-tests-1] INFO  resources.Base - Properties Loaded
+17:28:19.142 [TestNG-tests-3] INFO  resources.Base - Properties Loaded
+17:28:19.142 [TestNG-tests-2] INFO  resources.Base - Properties Loaded
+17:28:24.302 [TestNG-tests-1] INFO  Freelance.HomePageTest - Driver initialized
+17:28:24.308 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Driver initialized
+17:28:24.320 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Driver is initialized
+17:28:24.451 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+17:28:30.343 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Webpage Loaded
+17:28:30.347 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - TEST	 : ValidateNavBar
+17:28:31.147 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - NavBar is validated
+17:28:32.058 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+17:28:33.666 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+17:28:34.108 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Navigated to webpage
+17:28:34.112 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader
+17:28:34.199 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header is validated
+17:28:34.202 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader2
+17:28:34.263 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+17:28:34.462 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header2 is validated
+17:28:34.464 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateTitle
+17:28:36.076 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 1 Executed
+17:28:36.078 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+17:28:38.854 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+17:28:39.739 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+17:28:39.856 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+17:28:40.939 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 2 Executed
+17:46:07.791 [TestNG-tests-1] INFO  resources.Base - Properties Loaded
+17:46:07.791 [TestNG-tests-3] INFO  resources.Base - Properties Loaded
+17:46:07.791 [TestNG-tests-2] INFO  resources.Base - Properties Loaded
+17:46:12.669 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Driver initialized
+17:46:12.669 [TestNG-tests-1] INFO  Freelance.HomePageTest - Driver initialized
+17:46:12.670 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Driver is initialized
+17:46:12.774 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+17:46:20.658 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Webpage Loaded
+17:46:20.661 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - TEST	 : ValidateNavBar
+17:46:20.677 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Navigated to webpage
+17:46:20.678 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader
+17:46:20.690 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+17:46:20.938 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header is validated
+17:46:20.972 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader2
+17:46:21.151 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - NavBar is validated
+17:46:21.180 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header2 is validated
+17:46:21.182 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateTitle
+17:46:23.067 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+17:46:24.299 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+17:46:25.543 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 1 Executed
+17:46:25.547 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+17:46:27.757 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+17:46:28.905 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+17:46:29.260 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+17:46:30.847 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 2 Executed
+18:03:57.171 [TestNG-tests-3] INFO  resources.Base - Properties Loaded
+18:03:57.171 [TestNG-tests-2] INFO  resources.Base - Properties Loaded
+18:03:57.171 [TestNG-tests-1] INFO  resources.Base - Properties Loaded
+18:04:03.597 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Driver initialized
+18:04:03.597 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Driver is initialized
+18:04:03.598 [TestNG-tests-1] INFO  Freelance.HomePageTest - Driver initialized
+18:04:03.688 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+18:04:11.723 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+18:04:12.591 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Navigated to webpage
+18:04:12.594 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader
+18:04:12.694 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Webpage Loaded
+18:04:12.696 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - TEST	 : ValidateNavBar
+18:04:12.726 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header is validated
+18:04:12.741 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader2
+18:04:12.794 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header2 is validated
+18:04:12.796 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateTitle
+18:04:12.851 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - NavBar is validated
+18:04:14.109 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+18:04:14.371 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+18:04:15.565 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 1 Executed
+18:04:15.567 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+18:04:17.172 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+18:04:17.789 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+18:04:17.920 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+18:04:18.685 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 2 Executed
+18:33:30.669 [main] INFO  resources.Base - Properties Loaded
+16:56:40.925 [TestNG-tests-1] INFO  resources.Base - Properties Loaded
+16:56:40.926 [TestNG-tests-2] INFO  resources.Base - Properties Loaded
+16:56:40.926 [TestNG-tests-3] INFO  resources.Base - Properties Loaded
+16:57:10.427 [TestNG-tests-1] INFO  resources.Base - Properties Loaded
+16:57:10.427 [TestNG-tests-3] INFO  resources.Base - Properties Loaded
+16:57:10.427 [TestNG-tests-2] INFO  resources.Base - Properties Loaded
+16:59:22.755 [TestNG-tests-2] INFO  resources.Base - Properties Loaded
+16:59:22.755 [TestNG-tests-3] INFO  resources.Base - Properties Loaded
+16:59:22.755 [TestNG-tests-1] INFO  resources.Base - Properties Loaded
+17:00:12.541 [TestNG-tests-2] INFO  resources.Base - Properties Loaded
+17:00:12.541 [TestNG-tests-1] INFO  resources.Base - Properties Loaded
+17:00:12.541 [TestNG-tests-3] INFO  resources.Base - Properties Loaded
+17:00:17.694 [TestNG-tests-1] INFO  Freelance.HomePageTest - Driver initialized
+17:00:17.695 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Driver is initialized
+17:00:17.695 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Driver initialized
+17:00:17.797 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+17:00:29.398 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Navigated to webpage
+17:00:29.403 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader
+17:00:29.456 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+17:00:29.465 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - Webpage Loaded
+17:00:29.466 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - TEST	 : ValidateNavBar
+17:00:29.634 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header is validated
+17:00:29.662 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateHeader2
+17:00:29.747 [TestNG-tests-2] INFO  Freelance.ValidateNavBar - NavBar is validated
+17:00:29.753 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - Header2 is validated
+17:00:29.756 [TestNG-tests-3] INFO  Freelance.ValidateTextDisplayed - TEST	 : ValidateTitle
+17:00:31.412 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+17:00:31.749 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+17:00:32.841 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 1 Executed
+17:00:32.846 [TestNG-tests-1] INFO  Freelance.HomePageTest - TEST	 : basePageNavigate
+17:00:34.180 [TestNG-tests-1] INFO  Freelance.HomePageTest - Page loaded
+17:00:34.588 [TestNG-tests-1] INFO  Freelance.HomePageTest - Email is entered
+17:00:34.654 [TestNG-tests-1] INFO  Freelance.HomePageTest - pass is entered
+17:00:36.215 [TestNG-tests-1] INFO  Freelance.HomePageTest - Testcase 2 Executed
+17:56:34.568 [main] INFO  resources.Base - Properties Loaded
+18:15:17.811 [main] INFO  resources.Base - Properties Loaded
+18:15:31.492 [main] INFO  resources.Base - Properties Loaded
+18:18:03.172 [main] INFO  resources.Base - Properties Loaded
+18:18:20.420 [main] INFO  resources.Base - Properties Loaded
+18:23:59.929 [main] INFO  resources.Base - Properties Loaded
+18:24:39.802 [main] INFO  resources.Base - Properties Loaded
