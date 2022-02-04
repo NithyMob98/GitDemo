@@ -32,7 +32,7 @@ public class HomePageTest extends Base{
 		log.info("Email is entered");
 		lp.password().sendKeys(pass);
 		log.info("pass is entered");
-		System.out.println("homepageeeeda");
+		System.out.println("Git demo changed this @3.15");
 
 		lp.submit().click();
 		System.out.println("homepageeeeda");
