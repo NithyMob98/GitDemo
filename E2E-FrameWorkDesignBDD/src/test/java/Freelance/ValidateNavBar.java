@@ -30,7 +30,8 @@ public class ValidateNavBar extends Base{
 		System.out.println("neww");
 		System.out.println("neww");
 
-		System.out.println("neww");
+		System.out.println("r");
+		System.out.println("Clan leader has chenaged");
 
 		System.out.println("neww");
 
