@@ -27,6 +27,13 @@ public class ValidateNavBar extends Base{
 		System.out.println(lap.getNavBar().isDisplayed());
 		Assert.assertTrue(lap.getNavBar().isDisplayed());
 		log.info("NavBar is validated");
+		System.out.println("neww");
+		System.out.println("neww");
+
+		System.out.println("neww");
+
+		System.out.println("neww");
+
 		
 	}
 
