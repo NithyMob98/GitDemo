@@ -32,11 +32,16 @@ public class HomePageTest extends Base{
 		log.info("Email is entered");
 		lp.password().sendKeys(pass);
 		log.info("pass is entered");
+		System.out.println("homepageeeeda");
+
 		lp.submit().click();
+		System.out.println("homepageeeeda");
+
 		
 		ForgotPassword fp =lp.forgotpassword();
 		fp.emailid().sendKeys("aqua@gmail.com");
 		fp.submit().click();
+		System.out.println("homepageeeeda");
 
 		log.info(tc);
 
@@ -66,6 +71,8 @@ public class HomePageTest extends Base{
 	public void Initialize() throws IOException {
 		driver=initializeDriver();
 		log.info("Driver initialized");
+		System.out.println("homepageeeeda");
+
 
 	}
 	@AfterTest
