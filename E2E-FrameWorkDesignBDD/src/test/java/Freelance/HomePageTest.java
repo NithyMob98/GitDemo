@@ -42,6 +42,7 @@ public class HomePageTest extends Base{
 		fp.emailid().sendKeys("aqua@gmail.com");
 		fp.submit().click();
 		System.out.println("homepageeeeda");
+		System.out.println("Final development made getrepoo");
 
 		log.info(tc);
 
